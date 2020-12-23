@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/styles/style-light.css"],"names":[],"mappings":"AAAA,KACI,wBAAyB,CACzB,aACF,CACA,eACE,qBACF","file":"0.215afdb9.chunk.css","sourcesContent":["body{\r\n    background-color: #F8F9FB;\r\n    color:#002A44;\r\n  }\r\n  .response-area{\r\n    background-color: #FFF;\r\n  }"]}
